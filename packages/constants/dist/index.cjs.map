@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/user.ts"],"names":[],"mappings":";;;AAEO,IAAM,YAAA,GAAuB","file":"index.cjs","sourcesContent":["\r\n\r\nexport const USERNAME_MIN: number = 100;"]}
