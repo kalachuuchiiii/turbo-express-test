@@ -1,8 +1,8 @@
 
-import express, { type Application } from 'express';
+import express, { type Express } from 'express';
 import { USERNAME_MIN } from '@repo/constants';
 
-const app: Application = express()
+const app: any = express()
  
 app.use(express.json());
 
